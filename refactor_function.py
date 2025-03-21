@@ -1,6 +1,8 @@
 #Creates a function to get user input
 import random
 
+#This comment is just to test git commit
+
 def get_user_input():
     adjective = input("Enter an adjective: ")
     noun = input("Enter a noun: ")
